@@ -1,0 +1,2722 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "major_event",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.6686499975, 34.2207500008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.22075,
+				"LONGITUDE" : 35.66865,
+				"BRIGHTNESS" : 320.27,
+				"SCAN" : 1.25,
+				"TRACK" : 1.11,
+				"ACQ_DATE" : "20230522",
+				"ACQ_TIME" : "1117",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "5",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 300.53,
+				"FRP" : 15.91,
+				"DAYNIGHT" : "D",
+				"TYPE" : null,
+				"event_id" : 91,
+				"event_grp" : 53,
+				"fire_detected" : "10",
+				"frp_sum" : 324.33
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.1746749974, 34.5532570008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.553257,
+				"LONGITUDE" : 36.174675,
+				"BRIGHTNESS" : 336.7,
+				"SCAN" : 0.4,
+				"TRACK" : 0.37,
+				"ACQ_DATE" : "20210729",
+				"ACQ_TIME" : "1042",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "l",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 309.23,
+				"FRP" : 34.99,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 68,
+				"event_grp" : 40,
+				"fire_detected" : "2",
+				"frp_sum" : 51.82
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.5625189975, 33.7045020007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.704502,
+				"LONGITUDE" : 35.562519,
+				"BRIGHTNESS" : 367,
+				"SCAN" : 0.5,
+				"TRACK" : 0.66,
+				"ACQ_DATE" : "20210801",
+				"ACQ_TIME" : "0942",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "h",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 303.53,
+				"FRP" : 26.85,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 72,
+				"event_grp" : 41,
+				"fire_detected" : "14",
+				"frp_sum" : 656.7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.5399999975, 33.3714000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.3714,
+				"LONGITUDE" : 35.54,
+				"BRIGHTNESS" : 332.5,
+				"SCAN" : 1.2,
+				"TRACK" : 1.1,
+				"ACQ_DATE" : "20210926",
+				"ACQ_TIME" : "1105",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "7",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 312.7,
+				"FRP" : 22.9,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 78,
+				"event_grp" : 44,
+				"fire_detected" : "4",
+				"frp_sum" : 85.35
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.1889999976, 33.1559000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.1559,
+				"LONGITUDE" : 35.189,
+				"BRIGHTNESS" : 330.8,
+				"SCAN" : 3.2,
+				"TRACK" : 1.7,
+				"ACQ_DATE" : "20201009",
+				"ACQ_TIME" : "0751",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "0",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 302.7,
+				"FRP" : 118.3,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 50,
+				"event_grp" : 35,
+				"fire_detected" : "14",
+				"frp_sum" : 581.2299999999999
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.5736999975, 33.6053000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.6053,
+				"LONGITUDE" : 35.5737,
+				"BRIGHTNESS" : 327.4,
+				"SCAN" : 1.1,
+				"TRACK" : 1.1,
+				"ACQ_DATE" : "20131030",
+				"ACQ_TIME" : "0840",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "8",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 302.3,
+				"FRP" : 27,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 94,
+				"event_grp" : 5,
+				"fire_detected" : "8",
+				"frp_sum" : 190.59999999999997
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.8022879975, 34.1592710008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.159271,
+				"LONGITUDE" : 35.802288,
+				"BRIGHTNESS" : 367,
+				"SCAN" : 0.39,
+				"TRACK" : 0.59,
+				"ACQ_DATE" : "20200904",
+				"ACQ_TIME" : "0948",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "h",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 312.84,
+				"FRP" : 17.45,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 47,
+				"event_grp" : 33,
+				"fire_detected" : "3",
+				"frp_sum" : 74.75
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.8819999974, 34.3018000008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.3018,
+				"LONGITUDE" : 35.882,
+				"BRIGHTNESS" : 336.2,
+				"SCAN" : 1.1,
+				"TRACK" : 1.1,
+				"ACQ_DATE" : "20180623",
+				"ACQ_TIME" : "1100",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "8",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 307.5,
+				"FRP" : 29.9,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 26,
+				"event_grp" : 19,
+				"fire_detected" : "3",
+				"frp_sum" : 110.61999999999999
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.3063999976, 33.2533000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.2533,
+				"LONGITUDE" : 35.3064,
+				"BRIGHTNESS" : 317.2,
+				"SCAN" : 3.2,
+				"TRACK" : 1.7,
+				"ACQ_DATE" : "20201009",
+				"ACQ_TIME" : "0751",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "3",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 303.5,
+				"FRP" : 30.7,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 54,
+				"event_grp" : 35,
+				"fire_detected" : "5",
+				"frp_sum" : 152
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.9995999974, 34.4385000008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.4385,
+				"LONGITUDE" : 35.9996,
+				"BRIGHTNESS" : 334.2,
+				"SCAN" : 1,
+				"TRACK" : 1,
+				"ACQ_DATE" : "20200909",
+				"ACQ_TIME" : "1053",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "7",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 310.5,
+				"FRP" : 20.5,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 43,
+				"event_grp" : 33,
+				"fire_detected" : "5",
+				"frp_sum" : 135.92
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.7918999974, 33.7305000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.7305,
+				"LONGITUDE" : 35.7919,
+				"BRIGHTNESS" : 341.26,
+				"SCAN" : 0.42,
+				"TRACK" : 0.38,
+				"ACQ_DATE" : "20210928",
+				"ACQ_TIME" : "1047",
+				"SATELLITE" : "1",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "2",
+				"BRIGHT_T31" : 313.24,
+				"FRP" : 17.46,
+				"DAYNIGHT" : "D",
+				"TYPE" : null,
+				"event_id" : 80,
+				"event_grp" : 44,
+				"fire_detected" : "8",
+				"frp_sum" : 250
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.7120899975, 34.2982640008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.298264,
+				"LONGITUDE" : 35.71209,
+				"BRIGHTNESS" : 349.46,
+				"SCAN" : 0.55,
+				"TRACK" : 0.51,
+				"ACQ_DATE" : "20180815",
+				"ACQ_TIME" : "1112",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 312.29,
+				"FRP" : 33.27,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 27,
+				"event_grp" : 20,
+				"fire_detected" : "6",
+				"frp_sum" : 255.00000000000003
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.3269999973, 34.6142000009 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.6142,
+				"LONGITUDE" : 36.327,
+				"BRIGHTNESS" : 360.7,
+				"SCAN" : 1.2,
+				"TRACK" : 1.1,
+				"ACQ_DATE" : "20130913",
+				"ACQ_TIME" : "1100",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "1",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 312.9,
+				"FRP" : 92.4,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 5,
+				"event_grp" : 4,
+				"fire_detected" : "3",
+				"frp_sum" : 214.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.3283999976, 33.2874500007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.28745,
+				"LONGITUDE" : 35.3284,
+				"BRIGHTNESS" : 367,
+				"SCAN" : 0.55,
+				"TRACK" : 0.68,
+				"ACQ_DATE" : "20201009",
+				"ACQ_TIME" : "0942",
+				"SATELLITE" : "1",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "h",
+				"VERSION" : "2",
+				"BRIGHT_T31" : 304.7,
+				"FRP" : 15.4,
+				"DAYNIGHT" : "D",
+				"TYPE" : null,
+				"event_id" : 52,
+				"event_grp" : 35,
+				"fire_detected" : "7",
+				"frp_sum" : 244.8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.0089999974, 34.4466000008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.4466,
+				"LONGITUDE" : 36.009,
+				"BRIGHTNESS" : 324,
+				"SCAN" : 1.5,
+				"TRACK" : 1.2,
+				"ACQ_DATE" : "20210814",
+				"ACQ_TIME" : "0805",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "4",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 303.7,
+				"FRP" : 16.4,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 69,
+				"event_grp" : 42,
+				"fire_detected" : "7",
+				"frp_sum" : 143.91
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.2872959976, 33.2649350007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.264935,
+				"LONGITUDE" : 35.287296,
+				"BRIGHTNESS" : 342.66,
+				"SCAN" : 0.4,
+				"TRACK" : 0.37,
+				"ACQ_DATE" : "20150926",
+				"ACQ_TIME" : "1036",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 307.71,
+				"FRP" : 26.67,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 11,
+				"event_grp" : 9,
+				"fire_detected" : "4",
+				"frp_sum" : 130.96999999999997
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.6079029975, 33.8494610007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.849461,
+				"LONGITUDE" : 35.607903,
+				"BRIGHTNESS" : 328.4,
+				"SCAN" : 0.54,
+				"TRACK" : 0.42,
+				"ACQ_DATE" : "20211114",
+				"ACQ_TIME" : "1018",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 270.72,
+				"FRP" : 25.55,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 86,
+				"event_grp" : 49,
+				"fire_detected" : "8",
+				"frp_sum" : 247.64999999999998
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.2752609973, 34.5201070008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.520107,
+				"LONGITUDE" : 36.275261,
+				"BRIGHTNESS" : 353.84,
+				"SCAN" : 0.4,
+				"TRACK" : 0.37,
+				"ACQ_DATE" : "20180812",
+				"ACQ_TIME" : "1024",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 306.25,
+				"FRP" : 26.81,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 28,
+				"event_grp" : 20,
+				"fire_detected" : "5",
+				"frp_sum" : 149.22
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.4111399975, 33.5099800007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.50998,
+				"LONGITUDE" : 35.41114,
+				"BRIGHTNESS" : 341.4,
+				"SCAN" : 0.58,
+				"TRACK" : 0.52,
+				"ACQ_DATE" : "20201024",
+				"ACQ_TIME" : "1000",
+				"SATELLITE" : "1",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "2",
+				"BRIGHT_T31" : 299.2,
+				"FRP" : 15.2,
+				"DAYNIGHT" : "D",
+				"TYPE" : null,
+				"event_id" : 62,
+				"event_grp" : 37,
+				"fire_detected" : "3",
+				"frp_sum" : 45.599999999999994
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.7748999975, 34.0821000008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.0821,
+				"LONGITUDE" : 35.7749,
+				"BRIGHTNESS" : 314.3,
+				"SCAN" : 1.3,
+				"TRACK" : 1.1,
+				"ACQ_DATE" : "20131123",
+				"ACQ_TIME" : "1106",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "6",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 271.8,
+				"FRP" : 23,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 98,
+				"event_grp" : 6,
+				"fire_detected" : "5",
+				"frp_sum" : 164.5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.4319109975, 33.4863590007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.486359,
+				"LONGITUDE" : 35.431911,
+				"BRIGHTNESS" : 349,
+				"SCAN" : 0.39,
+				"TRACK" : 0.36,
+				"ACQ_DATE" : "20190724",
+				"ACQ_TIME" : "1042",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 316.78,
+				"FRP" : 30.68,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 32,
+				"event_grp" : 22,
+				"fire_detected" : "3",
+				"frp_sum" : 153.18
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.2270999974, 34.6242000008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.6242,
+				"LONGITUDE" : 36.2271,
+				"BRIGHTNESS" : 343.8,
+				"SCAN" : 1,
+				"TRACK" : 1,
+				"ACQ_DATE" : "20200823",
+				"ACQ_TIME" : "0833",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "8",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 309.1,
+				"FRP" : 36.3,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 45,
+				"event_grp" : 33,
+				"fire_detected" : "3",
+				"frp_sum" : 111.5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.4061299975, 33.2794400007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.27944,
+				"LONGITUDE" : 35.40613,
+				"BRIGHTNESS" : 347.49,
+				"SCAN" : 0.64,
+				"TRACK" : 0.72,
+				"ACQ_DATE" : "20210820",
+				"ACQ_TIME" : "0941",
+				"SATELLITE" : "1",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "2",
+				"BRIGHT_T31" : 302.12,
+				"FRP" : 17.53,
+				"DAYNIGHT" : "D",
+				"TYPE" : null,
+				"event_id" : 75,
+				"event_grp" : 43,
+				"fire_detected" : "7",
+				"frp_sum" : 148.61
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.6729999974, 33.5686950007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 7,
+				"LONGITUDE" : 35.673,
+				"BRIGHTNESS" : 355.63,
+				"SCAN" : 0.44,
+				"TRACK" : 0.46,
+				"ACQ_DATE" : "20140717",
+				"ACQ_TIME" : "1012",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 319.89,
+				"FRP" : 23.37,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 99,
+				"event_grp" : 7,
+				"fire_detected" : "8",
+				"frp_sum" : 194.67000000000004
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.9398959974, 34.4308660008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.430866,
+				"LONGITUDE" : 35.939896,
+				"BRIGHTNESS" : 342.41,
+				"SCAN" : 0.49,
+				"TRACK" : 0.41,
+				"ACQ_DATE" : "20210808",
+				"ACQ_TIME" : "1054",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 309.42,
+				"FRP" : 79.9,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 71,
+				"event_grp" : 40,
+				"fire_detected" : "3",
+				"frp_sum" : 273.56000000000006
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.7402599975, 34.3112000008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.3112,
+				"LONGITUDE" : 35.74026,
+				"BRIGHTNESS" : 338.3,
+				"SCAN" : 0.54,
+				"TRACK" : 0.42,
+				"ACQ_DATE" : "20200815",
+				"ACQ_TIME" : "1012",
+				"SATELLITE" : "1",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "l",
+				"VERSION" : "2",
+				"BRIGHT_T31" : 309,
+				"FRP" : 27.6,
+				"DAYNIGHT" : "D",
+				"TYPE" : null,
+				"event_id" : 42,
+				"event_grp" : 33,
+				"fire_detected" : "6",
+				"frp_sum" : 137.89000000000001
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.6684719975, 33.7853240007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.785324,
+				"LONGITUDE" : 35.668472,
+				"BRIGHTNESS" : 347.23,
+				"SCAN" : 0.41,
+				"TRACK" : 0.37,
+				"ACQ_DATE" : "20200901",
+				"ACQ_TIME" : "1048",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 310.67,
+				"FRP" : 22.83,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 49,
+				"event_grp" : 33,
+				"fire_detected" : "5",
+				"frp_sum" : 129.99
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.2968999973, 34.5174000008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.5174,
+				"LONGITUDE" : 36.2969,
+				"BRIGHTNESS" : 305.3,
+				"SCAN" : 4.3,
+				"TRACK" : 1.9,
+				"ACQ_DATE" : "20210729",
+				"ACQ_TIME" : "0022",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "2",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 292.5,
+				"FRP" : 50.1,
+				"DAYNIGHT" : "N",
+				"TYPE" : 0,
+				"event_id" : 66,
+				"event_grp" : 40,
+				"fire_detected" : "40",
+				"frp_sum" : 2155.29
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.3242909976, 33.3017160007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.301716,
+				"LONGITUDE" : 35.324291,
+				"BRIGHTNESS" : 367,
+				"SCAN" : 0.46,
+				"TRACK" : 0.47,
+				"ACQ_DATE" : "20211109",
+				"ACQ_TIME" : "1006",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "h",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 343.75,
+				"FRP" : 100.95,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 83,
+				"event_grp" : 46,
+				"fire_detected" : "10",
+				"frp_sum" : 789.07
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.4819999975, 33.7153000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.7153,
+				"LONGITUDE" : 35.482,
+				"BRIGHTNESS" : 316.2,
+				"SCAN" : 2.4,
+				"TRACK" : 1.5,
+				"ACQ_DATE" : "20191014",
+				"ACQ_TIME" : "0757",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "2",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 295.3,
+				"FRP" : 25.4,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 36,
+				"event_grp" : 25,
+				"fire_detected" : "9",
+				"frp_sum" : 335
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.6457819975, 33.8369410007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.836941,
+				"LONGITUDE" : 35.645782,
+				"BRIGHTNESS" : 348.26,
+				"SCAN" : 0.42,
+				"TRACK" : 0.37,
+				"ACQ_DATE" : "20190815",
+				"ACQ_TIME" : "1024",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 312.08,
+				"FRP" : 22.38,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 34,
+				"event_grp" : 24,
+				"fire_detected" : "5",
+				"frp_sum" : 275.37
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.4514999975, 33.3075000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.3075,
+				"LONGITUDE" : 35.4515,
+				"BRIGHTNESS" : 330.1,
+				"SCAN" : 1.4,
+				"TRACK" : 1.2,
+				"ACQ_DATE" : "20200803",
+				"ACQ_TIME" : "1035",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "5",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 305.5,
+				"FRP" : 22.2,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 41,
+				"event_grp" : 30,
+				"fire_detected" : "4",
+				"frp_sum" : 94.35
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.8181419975, 34.3991620008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.399162,
+				"LONGITUDE" : 35.818142,
+				"BRIGHTNESS" : 329.41,
+				"SCAN" : 0.46,
+				"TRACK" : 0.39,
+				"ACQ_DATE" : "20161211",
+				"ACQ_TIME" : "2306",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 311.22,
+				"FRP" : 64.89,
+				"DAYNIGHT" : "N",
+				"TYPE" : 0,
+				"event_id" : 20,
+				"event_grp" : 16,
+				"fire_detected" : "5",
+				"frp_sum" : 418.57
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.4070399973, 34.6087340009 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.608734,
+				"LONGITUDE" : 36.40704,
+				"BRIGHTNESS" : 339.82,
+				"SCAN" : 0.5,
+				"TRACK" : 0.41,
+				"ACQ_DATE" : "20200924",
+				"ACQ_TIME" : "1012",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 310.32,
+				"FRP" : 16.08,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 60,
+				"event_grp" : 34,
+				"fire_detected" : "4",
+				"frp_sum" : 95.71
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.5078769975, 33.5878070007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.587807,
+				"LONGITUDE" : 35.507877,
+				"BRIGHTNESS" : 367,
+				"SCAN" : 0.41,
+				"TRACK" : 0.61,
+				"ACQ_DATE" : "20220825",
+				"ACQ_TIME" : "0948",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "h",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 304.96,
+				"FRP" : 15.05,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 88,
+				"event_grp" : 51,
+				"fire_detected" : "7",
+				"frp_sum" : 197.83999999999997
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.0218599974, 34.0645200008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.06452,
+				"LONGITUDE" : 36.02186,
+				"BRIGHTNESS" : 351.7,
+				"SCAN" : 0.42,
+				"TRACK" : 0.45,
+				"ACQ_DATE" : "20210610",
+				"ACQ_TIME" : "1006",
+				"SATELLITE" : "1",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "2",
+				"BRIGHT_T31" : 310,
+				"FRP" : 17.5,
+				"DAYNIGHT" : "D",
+				"TYPE" : null,
+				"event_id" : 64,
+				"event_grp" : 38,
+				"fire_detected" : "4",
+				"frp_sum" : 87.38
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.6703999975, 33.6384000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.6384,
+				"LONGITUDE" : 35.6704,
+				"BRIGHTNESS" : 335.4,
+				"SCAN" : 1.1,
+				"TRACK" : 1,
+				"ACQ_DATE" : "20130913",
+				"ACQ_TIME" : "1059",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "7",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 311,
+				"FRP" : 25.3,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 1,
+				"event_grp" : 3,
+				"fire_detected" : "8",
+				"frp_sum" : 257.46
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.4334999976, 33.6530000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.653,
+				"LONGITUDE" : 35.4335,
+				"BRIGHTNESS" : 327.9,
+				"SCAN" : 1.9,
+				"TRACK" : 1.3,
+				"ACQ_DATE" : "20190717",
+				"ACQ_TIME" : "1117",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "6",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 303.1,
+				"FRP" : 34.9,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 33,
+				"event_grp" : 22,
+				"fire_detected" : "3",
+				"frp_sum" : 105.5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.7873999975, 34.2772000008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.2772,
+				"LONGITUDE" : 35.7874,
+				"BRIGHTNESS" : 340,
+				"SCAN" : 3,
+				"TRACK" : 1.6,
+				"ACQ_DATE" : "20161031",
+				"ACQ_TIME" : "1010",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "9",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 298,
+				"FRP" : 196.9,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 18,
+				"event_grp" : 14,
+				"fire_detected" : "4",
+				"frp_sum" : 545.26
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.8574999975, 34.3155000008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.3155,
+				"LONGITUDE" : 35.8575,
+				"BRIGHTNESS" : 336.9,
+				"SCAN" : 1,
+				"TRACK" : 1,
+				"ACQ_DATE" : "20210904",
+				"ACQ_TIME" : "0823",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "8",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 307.6,
+				"FRP" : 26.4,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 76,
+				"event_grp" : 42,
+				"fire_detected" : "12",
+				"frp_sum" : 459.05
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.8149399974, 34.0802100008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.08021,
+				"LONGITUDE" : 35.81494,
+				"BRIGHTNESS" : 349.34,
+				"SCAN" : 0.42,
+				"TRACK" : 0.38,
+				"ACQ_DATE" : "20211014",
+				"ACQ_TIME" : "1047",
+				"SATELLITE" : "1",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "2",
+				"BRIGHT_T31" : 306.6,
+				"FRP" : 16.45,
+				"DAYNIGHT" : "D",
+				"TYPE" : null,
+				"event_id" : 81,
+				"event_grp" : 47,
+				"fire_detected" : "3",
+				"frp_sum" : 192.05
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.7534679975, 34.3170550008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.317055,
+				"LONGITUDE" : 35.753468,
+				"BRIGHTNESS" : 341.19,
+				"SCAN" : 0.39,
+				"TRACK" : 0.36,
+				"ACQ_DATE" : "20210809",
+				"ACQ_TIME" : "1036",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 310.8,
+				"FRP" : 26.07,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 74,
+				"event_grp" : 40,
+				"fire_detected" : "3",
+				"frp_sum" : 85.47
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.0355999974, 34.4468000008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.4468,
+				"LONGITUDE" : 36.0356,
+				"BRIGHTNESS" : 317.8,
+				"SCAN" : 2.9,
+				"TRACK" : 1.6,
+				"ACQ_DATE" : "20201009",
+				"ACQ_TIME" : "0750",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "4",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 304.9,
+				"FRP" : 33.7,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 59,
+				"event_grp" : 34,
+				"fire_detected" : "20",
+				"frp_sum" : 512.1899999999999
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.1692389974, 34.5816270008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.581627,
+				"LONGITUDE" : 36.169239,
+				"BRIGHTNESS" : 344.3,
+				"SCAN" : 0.49,
+				"TRACK" : 0.48,
+				"ACQ_DATE" : "20200831",
+				"ACQ_TIME" : "1106",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 310.54,
+				"FRP" : 78.93,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 44,
+				"event_grp" : 33,
+				"fire_detected" : "3",
+				"frp_sum" : 112.09
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.1521219974, 34.5520520008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.552052,
+				"LONGITUDE" : 36.152122,
+				"BRIGHTNESS" : 346.14,
+				"SCAN" : 0.44,
+				"TRACK" : 0.39,
+				"ACQ_DATE" : "20150916",
+				"ACQ_TIME" : "1024",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 308.5,
+				"FRP" : 65.17,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 10,
+				"event_grp" : 10,
+				"fire_detected" : "2",
+				"frp_sum" : 156.87
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.1098999974, 34.5772000008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.5772,
+				"LONGITUDE" : 36.1099,
+				"BRIGHTNESS" : 323.5,
+				"SCAN" : 1.4,
+				"TRACK" : 1.2,
+				"ACQ_DATE" : "20191006",
+				"ACQ_TIME" : "0845",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "6",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 301.8,
+				"FRP" : 20.4,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 38,
+				"event_grp" : 26,
+				"fire_detected" : "8",
+				"frp_sum" : 163.93999999999997
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.3663019973, 34.6026190009 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.602619,
+				"LONGITUDE" : 36.366302,
+				"BRIGHTNESS" : 367,
+				"SCAN" : 0.52,
+				"TRACK" : 0.67,
+				"ACQ_DATE" : "20210828",
+				"ACQ_TIME" : "0936",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "h",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 308,
+				"FRP" : 16.24,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 77,
+				"event_grp" : 42,
+				"fire_detected" : "3",
+				"frp_sum" : 48.72
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.6366809975, 33.5960200007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.59602,
+				"LONGITUDE" : 35.636681,
+				"BRIGHTNESS" : 367,
+				"SCAN" : 0.74,
+				"TRACK" : 0.76,
+				"ACQ_DATE" : "20201007",
+				"ACQ_TIME" : "0930",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "h",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 300.48,
+				"FRP" : 15.91,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 56,
+				"event_grp" : 35,
+				"fire_detected" : "8",
+				"frp_sum" : 419.65
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.5842999975, 33.8219000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.8219,
+				"LONGITUDE" : 35.5843,
+				"BRIGHTNESS" : 319.8,
+				"SCAN" : 1.6,
+				"TRACK" : 1.2,
+				"ACQ_DATE" : "20131029",
+				"ACQ_TIME" : "1112",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "7",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 300,
+				"FRP" : 25.9,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 95,
+				"event_grp" : 5,
+				"fire_detected" : "3",
+				"frp_sum" : 74.6
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.5766999975, 33.5925000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.5925,
+				"LONGITUDE" : 35.5767,
+				"BRIGHTNESS" : 336.5,
+				"SCAN" : 1.2,
+				"TRACK" : 1.1,
+				"ACQ_DATE" : "20150817",
+				"ACQ_TIME" : "0841",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "7",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 308.8,
+				"FRP" : 31.4,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 9,
+				"event_grp" : 8,
+				"fire_detected" : "12",
+				"frp_sum" : 624.5100000000001
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.6527859975, 33.7331350007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.733135,
+				"LONGITUDE" : 35.652786,
+				"BRIGHTNESS" : 355.11,
+				"SCAN" : 0.55,
+				"TRACK" : 0.51,
+				"ACQ_DATE" : "20191014",
+				"ACQ_TIME" : "1000",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 308.67,
+				"FRP" : 29.81,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 37,
+				"event_grp" : 25,
+				"fire_detected" : "3",
+				"frp_sum" : 67.11
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.6357999975, 33.7455000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.7455,
+				"LONGITUDE" : 35.6358,
+				"BRIGHTNESS" : 331.8,
+				"SCAN" : 1.1,
+				"TRACK" : 1,
+				"ACQ_DATE" : "20130913",
+				"ACQ_TIME" : "1059",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "7",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 309.8,
+				"FRP" : 20,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 2,
+				"event_grp" : 3,
+				"fire_detected" : "4",
+				"frp_sum" : 111.87
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.5096999975, 33.6639000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.6639,
+				"LONGITUDE" : 35.5097,
+				"BRIGHTNESS" : 342.7,
+				"SCAN" : 3.2,
+				"TRACK" : 1.7,
+				"ACQ_DATE" : "20171002",
+				"ACQ_TIME" : "1010",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "8",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 298.7,
+				"FRP" : 228.4,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 24,
+				"event_grp" : 18,
+				"fire_detected" : "6",
+				"frp_sum" : 930.8599999999999
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.6960999975, 33.8386000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.8386,
+				"LONGITUDE" : 35.6961,
+				"BRIGHTNESS" : 317,
+				"SCAN" : 1.6,
+				"TRACK" : 1.2,
+				"ACQ_DATE" : "20161004",
+				"ACQ_TIME" : "1028",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "3",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 303.7,
+				"FRP" : 16.1,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 15,
+				"event_grp" : 13,
+				"fire_detected" : "12",
+				"frp_sum" : 567.2400000000001
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.2210199976, 33.1750600007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.17506,
+				"LONGITUDE" : 35.22102,
+				"BRIGHTNESS" : 367,
+				"SCAN" : 0.55,
+				"TRACK" : 0.68,
+				"ACQ_DATE" : "20211113",
+				"ACQ_TIME" : "0945",
+				"SATELLITE" : "1",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "h",
+				"VERSION" : "2",
+				"BRIGHT_T31" : 301.39,
+				"FRP" : 15.54,
+				"DAYNIGHT" : "D",
+				"TYPE" : null,
+				"event_id" : 85,
+				"event_grp" : 48,
+				"fire_detected" : "4",
+				"frp_sum" : 101.46000000000001
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.3913999975, 33.1822000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.1822,
+				"LONGITUDE" : 35.3914,
+				"BRIGHTNESS" : 323.7,
+				"SCAN" : 2.1,
+				"TRACK" : 1.4,
+				"ACQ_DATE" : "20131106",
+				"ACQ_TIME" : "1023",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "7",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 299.6,
+				"FRP" : 46,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 97,
+				"event_grp" : 5,
+				"fire_detected" : "3",
+				"frp_sum" : 95.3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.6405829975, 33.9497600007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.94976,
+				"LONGITUDE" : 35.640583,
+				"BRIGHTNESS" : 334.33,
+				"SCAN" : 0.55,
+				"TRACK" : 0.43,
+				"ACQ_DATE" : "20160612",
+				"ACQ_TIME" : "1100",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 301.76,
+				"FRP" : 28.94,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 12,
+				"event_grp" : 11,
+				"fire_detected" : "6",
+				"frp_sum" : 177.57
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.6834999975, 33.8414000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.8414,
+				"LONGITUDE" : 35.6835,
+				"BRIGHTNESS" : 344.8,
+				"SCAN" : 3,
+				"TRACK" : 1.7,
+				"ACQ_DATE" : "20201009",
+				"ACQ_TIME" : "0751",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "9",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 303.3,
+				"FRP" : 228.7,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 57,
+				"event_grp" : 35,
+				"fire_detected" : "22",
+				"frp_sum" : 1275.2400000000002
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.3343999975, 33.2378000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.2378,
+				"LONGITUDE" : 35.3344,
+				"BRIGHTNESS" : 321.8,
+				"SCAN" : 3.1,
+				"TRACK" : 1.7,
+				"ACQ_DATE" : "20201009",
+				"ACQ_TIME" : "0751",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "5",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 303.2,
+				"FRP" : 51.4,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 53,
+				"event_grp" : 35,
+				"fire_detected" : "3",
+				"frp_sum" : 203.3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.6987699974, 33.4493300007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.44933,
+				"LONGITUDE" : 35.69877,
+				"BRIGHTNESS" : 355.6,
+				"SCAN" : 0.63,
+				"TRACK" : 0.72,
+				"ACQ_DATE" : "20200918",
+				"ACQ_TIME" : "0936",
+				"SATELLITE" : "1",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "2",
+				"BRIGHT_T31" : 313.5,
+				"FRP" : 35.7,
+				"DAYNIGHT" : "D",
+				"TYPE" : null,
+				"event_id" : 55,
+				"event_grp" : 35,
+				"fire_detected" : "5",
+				"frp_sum" : 161.75
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.1466999974, 34.4078000008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.4078,
+				"LONGITUDE" : 36.1467,
+				"BRIGHTNESS" : 331.5,
+				"SCAN" : 1,
+				"TRACK" : 1,
+				"ACQ_DATE" : "20210804",
+				"ACQ_TIME" : "1047",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "5",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 305.7,
+				"FRP" : 17.8,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 70,
+				"event_grp" : 40,
+				"fire_detected" : "4",
+				"frp_sum" : 106.8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.3985099975, 33.3950580007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.395058,
+				"LONGITUDE" : 35.39851,
+				"BRIGHTNESS" : 337.35,
+				"SCAN" : 0.45,
+				"TRACK" : 0.39,
+				"ACQ_DATE" : "20170813",
+				"ACQ_TIME" : "1054",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "l",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 308.55,
+				"FRP" : 23.03,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 22,
+				"event_grp" : 17,
+				"fire_detected" : "4",
+				"frp_sum" : 113.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.2647739973, 34.2289240008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.228924,
+				"LONGITUDE" : 36.264774,
+				"BRIGHTNESS" : 367,
+				"SCAN" : 0.55,
+				"TRACK" : 0.68,
+				"ACQ_DATE" : "20220714",
+				"ACQ_TIME" : "0936",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "h",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 314.28,
+				"FRP" : 17.81,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 87,
+				"event_grp" : 50,
+				"fire_detected" : "7",
+				"frp_sum" : 238.63
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.3248859976, 33.2941780007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.294178,
+				"LONGITUDE" : 35.324886,
+				"BRIGHTNESS" : 354.23,
+				"SCAN" : 0.38,
+				"TRACK" : 0.36,
+				"ACQ_DATE" : "20161003",
+				"ACQ_TIME" : "1042",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 317.17,
+				"FRP" : 22.59,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 17,
+				"event_grp" : 13,
+				"fire_detected" : "3",
+				"frp_sum" : 135.69
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.8608699974, 33.7467900008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.74679,
+				"LONGITUDE" : 35.86087,
+				"BRIGHTNESS" : 343.9,
+				"SCAN" : 0.42,
+				"TRACK" : 0.38,
+				"ACQ_DATE" : "20210710",
+				"ACQ_TIME" : "1048",
+				"SATELLITE" : "1",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "2",
+				"BRIGHT_T31" : 316.5,
+				"FRP" : 24.9,
+				"DAYNIGHT" : "D",
+				"TYPE" : null,
+				"event_id" : 65,
+				"event_grp" : 39,
+				"fire_detected" : "5",
+				"frp_sum" : 246.70000000000005
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.5994999975, 33.7462000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.7462,
+				"LONGITUDE" : 35.5995,
+				"BRIGHTNESS" : 330.5,
+				"SCAN" : 1.9,
+				"TRACK" : 1.3,
+				"ACQ_DATE" : "20170913",
+				"ACQ_TIME" : "0803",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "7",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 310.3,
+				"FRP" : 44.7,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 23,
+				"event_grp" : 18,
+				"fire_detected" : "10",
+				"frp_sum" : 920.18
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.1891999974, 34.6296000008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.6296,
+				"LONGITUDE" : 36.1892,
+				"BRIGHTNESS" : 310.8,
+				"SCAN" : 2.2,
+				"TRACK" : 1.4,
+				"ACQ_DATE" : "20201009",
+				"ACQ_TIME" : "0003",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "7",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 295.2,
+				"FRP" : 26.2,
+				"DAYNIGHT" : "N",
+				"TYPE" : 0,
+				"event_id" : 58,
+				"event_grp" : 34,
+				"fire_detected" : "30",
+				"frp_sum" : 1060.1800000000003
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.6829449975, 34.0645790008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.064579,
+				"LONGITUDE" : 35.682945,
+				"BRIGHTNESS" : 334.39,
+				"SCAN" : 0.41,
+				"TRACK" : 0.37,
+				"ACQ_DATE" : "20161009",
+				"ACQ_TIME" : "1024",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 299.2,
+				"FRP" : 38.86,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 16,
+				"event_grp" : 13,
+				"fire_detected" : "3",
+				"frp_sum" : 109.26
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.1814839976, 33.1119080006 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.111908,
+				"LONGITUDE" : 35.181484,
+				"BRIGHTNESS" : 344.06,
+				"SCAN" : 0.5,
+				"TRACK" : 0.41,
+				"ACQ_DATE" : "20161121",
+				"ACQ_TIME" : "1018",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 301.77,
+				"FRP" : 16.58,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 21,
+				"event_grp" : 15,
+				"fire_detected" : "9",
+				"frp_sum" : 302.96
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.2589149973, 34.2045140008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.204514,
+				"LONGITUDE" : 36.258915,
+				"BRIGHTNESS" : 353.16,
+				"SCAN" : 0.5,
+				"TRACK" : 0.49,
+				"ACQ_DATE" : "20200914",
+				"ACQ_TIME" : "1000",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 314.63,
+				"FRP" : 45.06,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 46,
+				"event_grp" : 34,
+				"fire_detected" : "8",
+				"frp_sum" : 426.78000000000003
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.6023099975, 33.6067200007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.60672,
+				"LONGITUDE" : 35.60231,
+				"BRIGHTNESS" : 345.37,
+				"SCAN" : 0.47,
+				"TRACK" : 0.4,
+				"ACQ_DATE" : "20210807",
+				"ACQ_TIME" : "1024",
+				"SATELLITE" : "1",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "2",
+				"BRIGHT_T31" : 311.82,
+				"FRP" : 15.92,
+				"DAYNIGHT" : "D",
+				"TYPE" : null,
+				"event_id" : 73,
+				"event_grp" : 41,
+				"fire_detected" : "5",
+				"frp_sum" : 206.27999999999997
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.6635699975, 33.8224600007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.82246,
+				"LONGITUDE" : 35.66357,
+				"BRIGHTNESS" : 338.13,
+				"SCAN" : 0.41,
+				"TRACK" : 0.37,
+				"ACQ_DATE" : "20130915",
+				"ACQ_TIME" : "1030",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 302.5,
+				"FRP" : 26.38,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 3,
+				"event_grp" : 3,
+				"fire_detected" : "3",
+				"frp_sum" : 94.25999999999999
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.8124469974, 33.7263490008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.726349,
+				"LONGITUDE" : 35.812447,
+				"BRIGHTNESS" : 348.93,
+				"SCAN" : 0.46,
+				"TRACK" : 0.39,
+				"ACQ_DATE" : "20171108",
+				"ACQ_TIME" : "1018",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 298.06,
+				"FRP" : 19.74,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 25,
+				"event_grp" : 18,
+				"fire_detected" : "3",
+				"frp_sum" : 74.03999999999999
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.3074999976, 33.2330000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.233,
+				"LONGITUDE" : 35.3075,
+				"BRIGHTNESS" : 327.1,
+				"SCAN" : 1.1,
+				"TRACK" : 1,
+				"ACQ_DATE" : "20131110",
+				"ACQ_TIME" : "0821",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "8",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 297.1,
+				"FRP" : 23,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 96,
+				"event_grp" : 5,
+				"fire_detected" : "3",
+				"frp_sum" : 88.89
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.4688839975, 33.2726940007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.272694,
+				"LONGITUDE" : 35.468884,
+				"BRIGHTNESS" : 345.49,
+				"SCAN" : 0.39,
+				"TRACK" : 0.36,
+				"ACQ_DATE" : "20201009",
+				"ACQ_TIME" : "1030",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 310.59,
+				"FRP" : 17.07,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 51,
+				"event_grp" : 35,
+				"fire_detected" : "11",
+				"frp_sum" : 422.04999999999995
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.4225999975, 33.5662000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.5662,
+				"LONGITUDE" : 35.4226,
+				"BRIGHTNESS" : 341.2,
+				"SCAN" : 1,
+				"TRACK" : 1,
+				"ACQ_DATE" : "20160914",
+				"ACQ_TIME" : "1053",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "8",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 303.3,
+				"FRP" : 34.7,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 14,
+				"event_grp" : 13,
+				"fire_detected" : "4",
+				"frp_sum" : 183.13
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.2204019973, 34.1539650008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.153965,
+				"LONGITUDE" : 36.220402,
+				"BRIGHTNESS" : 340.35,
+				"SCAN" : 0.43,
+				"TRACK" : 0.38,
+				"ACQ_DATE" : "20210531",
+				"ACQ_TIME" : "1042",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 312.72,
+				"FRP" : 50.57,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 63,
+				"event_grp" : 38,
+				"fire_detected" : "4",
+				"frp_sum" : 183.45000000000002
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.2270999973, 34.5462000008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.5462,
+				"LONGITUDE" : 36.2271,
+				"BRIGHTNESS" : 332.8,
+				"SCAN" : 1.4,
+				"TRACK" : 1.2,
+				"ACQ_DATE" : "20210729",
+				"ACQ_TIME" : "0806",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "7",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 307.8,
+				"FRP" : 35.2,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 67,
+				"event_grp" : 40,
+				"fire_detected" : "9",
+				"frp_sum" : 256.87
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.8220059974, 33.7923160008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 6,
+				"LONGITUDE" : 35.822006,
+				"BRIGHTNESS" : 331.36,
+				"SCAN" : 0.57,
+				"TRACK" : 0.43,
+				"ACQ_DATE" : "20140729",
+				"ACQ_TIME" : "2354",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 302.98,
+				"FRP" : 16.15,
+				"DAYNIGHT" : "N",
+				"TYPE" : 0,
+				"event_id" : 100,
+				"event_grp" : 7,
+				"fire_detected" : "7",
+				"frp_sum" : 166.33
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.5723999975, 33.5702000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.5702,
+				"LONGITUDE" : 35.5724,
+				"BRIGHTNESS" : 310.8,
+				"SCAN" : 3.3,
+				"TRACK" : 1.7,
+				"ACQ_DATE" : "20211007",
+				"ACQ_TIME" : "0906",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "4",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 296.6,
+				"FRP" : 37.1,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 79,
+				"event_grp" : 44,
+				"fire_detected" : "3",
+				"frp_sum" : 136
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.7128999975, 34.1936000008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.1936,
+				"LONGITUDE" : 35.7129,
+				"BRIGHTNESS" : 315.4,
+				"SCAN" : 2,
+				"TRACK" : 1.4,
+				"ACQ_DATE" : "20201022",
+				"ACQ_TIME" : "0858",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "5",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 298.9,
+				"FRP" : 27.5,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 61,
+				"event_grp" : 36,
+				"fire_detected" : "4",
+				"frp_sum" : 145.79999999999998
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.4832759975, 33.3152470007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.315247,
+				"LONGITUDE" : 35.483276,
+				"BRIGHTNESS" : 351.95,
+				"SCAN" : 0.4,
+				"TRACK" : 0.37,
+				"ACQ_DATE" : "20200613",
+				"ACQ_TIME" : "1042",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 314.03,
+				"FRP" : 17.83,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 39,
+				"event_grp" : 30,
+				"fire_detected" : "4",
+				"frp_sum" : 85.25999999999999
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.5950969975, 33.5771710007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.577171,
+				"LONGITUDE" : 35.595097,
+				"BRIGHTNESS" : 353.28,
+				"SCAN" : 0.47,
+				"TRACK" : 0.4,
+				"ACQ_DATE" : "20220827",
+				"ACQ_TIME" : "1054",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 309.99,
+				"FRP" : 16.97,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 89,
+				"event_grp" : 51,
+				"fire_detected" : "4",
+				"frp_sum" : 88.55
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.3848999976, 33.5011000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.5011,
+				"LONGITUDE" : 35.3849,
+				"BRIGHTNESS" : 339.1,
+				"SCAN" : 3.3,
+				"TRACK" : 1.7,
+				"ACQ_DATE" : "20131007",
+				"ACQ_TIME" : "1010",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "7",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 296.6,
+				"FRP" : 219.9,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 93,
+				"event_grp" : 3,
+				"fire_detected" : "10",
+				"frp_sum" : 663.88
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.7163999975, 34.1963000008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.1963,
+				"LONGITUDE" : 35.7164,
+				"BRIGHTNESS" : 343.2,
+				"SCAN" : 1,
+				"TRACK" : 1,
+				"ACQ_DATE" : "20200823",
+				"ACQ_TIME" : "0833",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "8",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 307.3,
+				"FRP" : 41.3,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 48,
+				"event_grp" : 33,
+				"fire_detected" : "3",
+				"frp_sum" : 83.89999999999999
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.0777499974, 34.4880200008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.48802,
+				"LONGITUDE" : 36.07775,
+				"BRIGHTNESS" : 345.28,
+				"SCAN" : 0.4,
+				"TRACK" : 0.37,
+				"ACQ_DATE" : "20210923",
+				"ACQ_TIME" : "1041",
+				"SATELLITE" : "1",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "2",
+				"BRIGHT_T31" : 301.98,
+				"FRP" : 72.67,
+				"DAYNIGHT" : "D",
+				"TYPE" : null,
+				"event_id" : 82,
+				"event_grp" : 45,
+				"fire_detected" : "6",
+				"frp_sum" : 303.06000000000006
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.5904999975, 33.7297000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 8,
+				"LONGITUDE" : 35.5905,
+				"BRIGHTNESS" : 336.5,
+				"SCAN" : 1.4,
+				"TRACK" : 1.2,
+				"ACQ_DATE" : "20150808",
+				"ACQ_TIME" : "0847",
+				"SATELLITE" : "T",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "7",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 310.3,
+				"FRP" : 43.3,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 8,
+				"event_grp" : 8,
+				"fire_detected" : "9",
+				"frp_sum" : 285.97999999999996
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.5901449975, 33.7667470007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.766747,
+				"LONGITUDE" : 35.590145,
+				"BRIGHTNESS" : 338.02,
+				"SCAN" : 0.47,
+				"TRACK" : 0.4,
+				"ACQ_DATE" : "20130919",
+				"ACQ_TIME" : "1054",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 301.61,
+				"FRP" : 15.57,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 4,
+				"event_grp" : 3,
+				"fire_detected" : "5",
+				"frp_sum" : 89.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.4441679975, 33.2837520007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.283752,
+				"LONGITUDE" : 35.444168,
+				"BRIGHTNESS" : 337.18,
+				"SCAN" : 0.53,
+				"TRACK" : 0.5,
+				"ACQ_DATE" : "20190717",
+				"ACQ_TIME" : "1112",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 304.69,
+				"FRP" : 23.72,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 31,
+				"event_grp" : 22,
+				"fire_detected" : "13",
+				"frp_sum" : 515.44
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.7683939975, 34.2893140008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.289314,
+				"LONGITUDE" : 35.768394,
+				"BRIGHTNESS" : 352.62,
+				"SCAN" : 0.52,
+				"TRACK" : 0.5,
+				"ACQ_DATE" : "20160717",
+				"ACQ_TIME" : "1000",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 307.95,
+				"FRP" : 50.29,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 13,
+				"event_grp" : 12,
+				"fire_detected" : "8",
+				"frp_sum" : 828.03
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.0836259974, 34.4661560008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.466156,
+				"LONGITUDE" : 36.083626,
+				"BRIGHTNESS" : 367,
+				"SCAN" : 0.79,
+				"TRACK" : 0.78,
+				"ACQ_DATE" : "20190728",
+				"ACQ_TIME" : "0924",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "h",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 297,
+				"FRP" : 25.84,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 35,
+				"event_grp" : 23,
+				"fire_detected" : "3",
+				"frp_sum" : 58.98
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.0389599974, 34.4698260008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.469826,
+				"LONGITUDE" : 36.03896,
+				"BRIGHTNESS" : 339.08,
+				"SCAN" : 0.39,
+				"TRACK" : 0.44,
+				"ACQ_DATE" : "20200709",
+				"ACQ_TIME" : "1100",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 299.89,
+				"FRP" : 45.33,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 40,
+				"event_grp" : 31,
+				"fire_detected" : "3",
+				"frp_sum" : 142.14
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.3195199975, 33.1367600007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.13676,
+				"LONGITUDE" : 35.31952,
+				"BRIGHTNESS" : 331.46,
+				"SCAN" : 0.54,
+				"TRACK" : 0.68,
+				"ACQ_DATE" : "20211113",
+				"ACQ_TIME" : "0945",
+				"SATELLITE" : "1",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "2",
+				"BRIGHT_T31" : 290.63,
+				"FRP" : 21.03,
+				"DAYNIGHT" : "D",
+				"TYPE" : null,
+				"event_id" : 84,
+				"event_grp" : 48,
+				"fire_detected" : "6",
+				"frp_sum" : 202.62999999999997
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.4344859975, 33.4232520007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.423252,
+				"LONGITUDE" : 35.434486,
+				"BRIGHTNESS" : 367,
+				"SCAN" : 0.52,
+				"TRACK" : 0.67,
+				"ACQ_DATE" : "20180926",
+				"ACQ_TIME" : "0942",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "h",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 302.69,
+				"FRP" : 28.15,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 29,
+				"event_grp" : 21,
+				"fire_detected" : "4",
+				"frp_sum" : 93.86
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.5910999975, 33.7214000007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.7214,
+				"LONGITUDE" : 35.5911,
+				"BRIGHTNESS" : 334.7,
+				"SCAN" : 1.1,
+				"TRACK" : 1,
+				"ACQ_DATE" : "20161124",
+				"ACQ_TIME" : "1059",
+				"SATELLITE" : "A",
+				"INSTRUMENT" : "MODIS",
+				"CONFIDENCE" : "8",
+				"VERSION" : "6",
+				"BRIGHT_T31" : 296.3,
+				"FRP" : 38.8,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 19,
+				"event_grp" : 15,
+				"fire_detected" : "5",
+				"frp_sum" : 288.49
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.1224999974, 34.5042000008 ]
+			},
+			"properties" : {
+				"LATITUDE" : 34.5042,
+				"LONGITUDE" : 36.1225,
+				"BRIGHTNESS" : 367,
+				"SCAN" : 0.65,
+				"TRACK" : 0.73,
+				"ACQ_DATE" : "20220927",
+				"ACQ_TIME" : "0934",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "h",
+				"VERSION" : "2",
+				"BRIGHT_T31" : 304.17,
+				"FRP" : 18.2,
+				"DAYNIGHT" : "D",
+				"TYPE" : null,
+				"event_id" : 90,
+				"event_grp" : 52,
+				"fire_detected" : "8",
+				"frp_sum" : 334.9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.5041009975, 33.1849780007 ]
+			},
+			"properties" : {
+				"LATITUDE" : 33.184978,
+				"LONGITUDE" : 35.504101,
+				"BRIGHTNESS" : 338.52,
+				"SCAN" : 0.47,
+				"TRACK" : 0.47,
+				"ACQ_DATE" : "20190715",
+				"ACQ_TIME" : "1006",
+				"SATELLITE" : "N",
+				"INSTRUMENT" : "VIIRS",
+				"CONFIDENCE" : "n",
+				"VERSION" : "1",
+				"BRIGHT_T31" : 304.19,
+				"FRP" : 28.23,
+				"DAYNIGHT" : "D",
+				"TYPE" : 0,
+				"event_id" : 30,
+				"event_grp" : 22,
+				"fire_detected" : "3",
+				"frp_sum" : 103.51
+			}
+		}
+	]
+}
